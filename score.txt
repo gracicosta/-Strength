@@ -1,0 +1,16 @@
+Graci;0
+Graci;0
+Graci;800
+Graci;1000
+Graci;100
+Gibi;0
+Graci;800
+Graci;0
+Graci;0
+Graci;0
+Graci;0
+Graci;0
+Graci;100
+Gu;400
+Miau;0
+Miau;200
